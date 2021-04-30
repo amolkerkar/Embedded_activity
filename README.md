@@ -33,3 +33,4 @@
 
 [![Compile-Linux](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml)
 [![Cppcheck](https://github.com/amolkerkar/Embedded_activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/amolkerkar/Embedded_activity/actions/workflows/CodeQuality.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/df8266711d99463c8708217c895460ad)](https://www.codacy.com/gh/amolkerkar/Embedded_activity/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amolkerkar/Embedded_activity&amp;utm_campaign=Badge_Grade)
