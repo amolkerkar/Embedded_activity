@@ -18,4 +18,15 @@
 ### 1V analog input shows 204 decimal in RAM table
 ![Screenshot (12)](https://user-images.githubusercontent.com/81116875/116716388-513d8500-a9f5-11eb-8ae8-e8c80cba09d1.png)
 
+## ACTIVITY 3(ADC)
+### ADC value is 252, Heater On for 35% Duty Cylce - 20°C
+![Screenshot (17)](https://user-images.githubusercontent.com/81116875/116735712-8acdba80-aa0c-11eb-82d4-ad3381415129.png)
+
+### ADC value is 533, Heater On for 60% Duty Cylce - 27°C
+![Screenshot (22)](https://user-images.githubusercontent.com/81116875/116736022-f57ef600-aa0c-11eb-8e51-69a3a79663af.png)
+
+### ADC value is 892, Heater On for 70% Duty Cylce - 33°C
+![Screenshot (24)](https://user-images.githubusercontent.com/81116875/116736295-527aac00-aa0d-11eb-9333-d942bef5f22f.png)
+
+
 
