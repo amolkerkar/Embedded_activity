@@ -1,6 +1,6 @@
 #ifndef ACTIVITY_1_H
 #define ACTIVITY_1_H
 
-void Activity_1();
+void firstact();
 
 #endif // ACTIVITY_1_H
