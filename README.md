@@ -1,7 +1,7 @@
 
 # Embedded_activity
 
-## ACTIVITY 1 (Switching on LED only fir both person seated and button ON)
+## ACTIVITY 1 (Switching on LED only for both person seated and button ON)
 ### NOT Seated and Button ON
 ![Screenshot (9)](https://user-images.githubusercontent.com/81116875/116706349-2cdcab00-a9eb-11eb-8e75-eef6bd6344ba.png)
 ###  Seated and Button OFF
@@ -15,7 +15,7 @@
 ### 1V analog input shows 204 decimal in RAM table
 ![Screenshot (12)](https://user-images.githubusercontent.com/81116875/116716388-513d8500-a9f5-11eb-8ae8-e8c80cba09d1.png)
 
-## ACTIVITY 3(ADC)
+## ACTIVITY 3(ADC with oscilloscope)
 ### ADC value is 252, Heater On for 35% Duty Cylce - 20°C
 ![Screenshot (17)](https://user-images.githubusercontent.com/81116875/116735712-8acdba80-aa0c-11eb-82d4-ad3381415129.png)
 ### ADC value is 533, Heater On for 60% Duty Cylce - 27°C
