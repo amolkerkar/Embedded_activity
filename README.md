@@ -12,10 +12,10 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/81116875/116706454-4847b600-a9eb-11eb-8efc-3c0dc95dd196.png)
 
 ## ACTIVITY 2(ADC implementation)
-### 1.3V analog to digital 266 decimal
+### 3.25V analog input shows 664 decimal in RAM table
 ![Screenshot (13)](https://user-images.githubusercontent.com/81116875/116716353-48e54a00-a9f5-11eb-9218-607d36fe45f0.png)
 
-### 3.25V analog to digital 664 decimal
+### 1V analog input shows 204 decimal in RAM table
 ![Screenshot (12)](https://user-images.githubusercontent.com/81116875/116716388-513d8500-a9f5-11eb-8ae8-e8c80cba09d1.png)
 
 
