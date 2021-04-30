@@ -1,7 +1,8 @@
 /**
  * @file act1.c
  * @author Amol Kerkar
- * @brief Activity-1 of Seat heater
+ * @brief
+
  * @version 0.1
  * @date 2021-04-27
  * @copyright Copyright (c) 2021
@@ -17,7 +18,7 @@
  * \return void
  *
  */
-void Activity_1()
+void firstact()
 {
 DDRB |= (1<<PB0); // set PortB0=1; set bit for Led output      // PortB Data Direction Register
 
