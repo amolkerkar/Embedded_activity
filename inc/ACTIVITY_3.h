@@ -1,6 +1,6 @@
-#ifndef ACT_3_H_INCLUDED
-#define ACT_3_H_INCLUDED
+#ifndef ACTIVITY_3_H
+#define ACTIVITY_3_H
 
-void Activity_3();
+void thirdact();
 
-#endif // ACT_3_H_INCLUDED
+#endif // ACTIVITY_3_H
