@@ -33,4 +33,7 @@
 ### 33°C 
 ![Screenshot (28)](https://user-images.githubusercontent.com/81116875/116743709-f026a900-aa16-11eb-8f34-f2842121219d.png)
 
+[![Compile-Linux](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml)
+
+
 
