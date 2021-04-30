@@ -1,22 +1,40 @@
-//act 1 code
-#include "function.h"
+/**
+ * @file act1.c
+ * @author Amol Kerkar
+ * @brief Activity-1 of Seat heater
+ * @version 0.1
+ * @date 2021-04-27
+ * @copyright Copyright (c) 2021
+ *
+ */
 
-int firstact(void)
+#include <avr/io.h>
+# define F_CPU 16000000UL
+#include <util/delay.h>
+
+/** \brief main function of act1 is sensing the occupance of the seat and the manual heater and turning the dummy heater i.e. Led ON or OFF
+ *
+ * \return void
+ *
+ */
+void Activity_1()
 {
-    DDRB = DDRB&0b11111101;//fd
-    DDRC = DDRC|0b01000000;//40
-    DDRB = DDRB&0b11111110;//fe
+DDRB |= (1<<PB0); // set PortB0=1; set bit for Led output      // PortB Data Direction Register
 
+DDRD &=~(1<<PD2); // set PortD2=0; clear bit for input         // PortD Data Direction Register
+PORTD |= (1<<PD2);
 
-    while(1){
-        if((PINB & 0b00000010)||(PINB & 0b0000001)==1)
-        {//02 & 01
-            PORTC = PORTC&0b10111111;//bf
+DDRD &=~(1<<PD3); // set PortD3=0; clear bit for input
+PORTD |= (1<<PD3);
+
+    {
+        if(!(PIND&(1<<PD2))&&!(PIND&(1<<PD3)))                // PortD Input Pin Address
+        {
+        PORTB |=(1<<PB0);                                     // PortB Data Register
         }
         else
         {
-            PORTC = PORTC|0b01000000;//40
+        PORTB &=~(1<<PB0);                                    // PortB Data Register
         }
     }
-
 }
