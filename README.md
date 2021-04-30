@@ -1,10 +1,12 @@
+
 # Embedded_activity
 
 ## CaseStudy ACT-1(Check conditions)
-### Seat Un-occupied, Button OFF
-![image](https://user-images.githubusercontent.com/81116875/116705414-2437a500-a9ea-11eb-8f7c-2c5606be1491.png)
+### NOT Seated and Button OFF
+![Screenshot (9)](https://user-images.githubusercontent.com/81116875/116706349-2cdcab00-a9eb-11eb-8e75-eef6bd6344ba.png)
 
+###  Seated and Button OFF
+![Screenshot (7)](https://user-images.githubusercontent.com/81116875/116706420-3f56e480-a9eb-11eb-8cb7-ab3e023788af.png)
 
-### Seat Occupied, Button OFF
-
-### Seat Occupied, Button ON
+### Seated and Button ON
+![Screenshot (8)](https://user-images.githubusercontent.com/81116875/116706454-4847b600-a9eb-11eb-8efc-3c0dc95dd196.png)
