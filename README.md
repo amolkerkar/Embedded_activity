@@ -2,7 +2,7 @@
 # Embedded_activity
 
 ## CaseStudy ACT-1(Check conditions)
-### NOT Seated and Button OFF
+### NOT Seated and Button ON
 ![Screenshot (9)](https://user-images.githubusercontent.com/81116875/116706349-2cdcab00-a9eb-11eb-8e75-eef6bd6344ba.png)
 
 ###  Seated and Button OFF
