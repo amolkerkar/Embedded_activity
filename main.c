@@ -1,8 +1,11 @@
-#include "function.h"
+
 
 int main(void)
 {
     firstact();
+    secondact();
+    thirdact();
+    finalact();
 
     return 0;
 }
