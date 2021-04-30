@@ -1,4 +1,3 @@
-
 # Embedded_activity
 ## ACTIVITY 1 (Switching on LED only for both person seated and button ON)
 ### NOT Seated and Button ON
@@ -34,5 +33,3 @@
 
 [![Compile-Linux](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml)
 [![Cppcheck](https://github.com/amolkerkar/Embedded_activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/amolkerkar/Embedded_activity/actions/workflows/CodeQuality.yml)
-
-
