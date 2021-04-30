@@ -35,5 +35,6 @@
 
 [![Compile-Linux](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/amolkerkar/Embedded_activity/actions/workflows/Compile.yml)
 
+[![Cppcheck](https://github.com/amolkerkar/Embedded_activity/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/amolkerkar/Embedded_activity/actions/workflows/CodeQuality.yml)
 
 
